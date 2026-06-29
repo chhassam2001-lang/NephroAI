@@ -44,7 +44,7 @@ The complete workflow includes CT scan analysis using a Convolutional Neural Net
 # 🧠 AI Pipeline
 
 <p align="center">
-  <img src="assets/pipeline.png" alt="NephroAI AI Pipeline" width="90%">
+  <img src="assets/pipeline.png" alt="NephroAI AI Pipeline" width="60%">
 </p>
 
 The AI pipeline follows a multi-stage diagnostic workflow:
