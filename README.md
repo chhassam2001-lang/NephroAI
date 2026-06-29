@@ -1,4 +1,4 @@
-````markdown
+
 <p align="center">
   <img src="assets/banner.png" alt="NephroAI Banner" width="100%">
 </p>
@@ -308,5 +308,4 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 Your support helps the project reach more developers, researchers, and healthcare innovators.
 
-```
-```
+
