@@ -1,0 +1,10 @@
+tensorflow
+flask
+opencv-python
+numpy
+pandas
+scikit-learn
+joblib
+ultralytics
+pyngrok
+werkzeug

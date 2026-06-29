@@ -1,0 +1,31 @@
+# Next.js
+node_modules/
+.next/
+out/
+
+# Environment Variables
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+
+# AI Models
+*.keras
+*.h5
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Flask Uploads
+uploads/
+static/outputs/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
